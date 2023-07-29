@@ -93,7 +93,7 @@ function App() {
             {
               path: "/dashboard/reporteditems",
               element: <Reporteditems></Reporteditems> ,
-              errorElement: <Error></Error>
+              errorElement: <Error/>
             },
           ]
         },
